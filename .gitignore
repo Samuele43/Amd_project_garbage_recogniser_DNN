@@ -211,5 +211,10 @@ data/
 __pycache__/
 *.zip
 kaggle.json
+
 .DS_Store
+<<<<<<< HEAD
 .DS_Store
+=======
+
+>>>>>>> 9282c06f9de7a190c00795bf24da6d6305a03abb
